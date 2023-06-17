@@ -1,6 +1,6 @@
 
 
-<h3> 👦: &nbsp;Sobre mim </h3>
+<h3> 👦: &nbsp;Sobre mim :) </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>.
